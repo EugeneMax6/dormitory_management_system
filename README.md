@@ -1,4 +1,4 @@
-# se
+# 宿舍管理系统
 
 ## Project setup
 ```
